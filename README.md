@@ -1,2 +1,2 @@
 # Automation-Testing-Project
-Below there are some Automation Test Samples that I have tried on the eMag website.
+In this project there are some short Automation Test Samples that I have tried on the eMag website.
