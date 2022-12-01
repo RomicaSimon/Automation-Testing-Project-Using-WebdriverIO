@@ -9,7 +9,7 @@ describe('eMag.ro', () => {
     });    
 });
 
-
+//This is describe block
 describe('eMag.ro', () => {
 
     it('should have the correct page title', async () => {
