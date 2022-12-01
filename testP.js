@@ -13,14 +13,14 @@ describe('eMag.ro', () => {
 describe('eMag.ro', () => {
 
     it('should have the correct page title', async () => {
-        await browser.url('https://www.emag.ro');
-        await expect(browser).toHaveTitle('eMAG.ro - Libertate în fiecare zi');
+        await browser.url('https://www.emag.ro')
+        await expect(browser).toHaveTitle('eMAG.ro - Libertate în fiecare zi')
     });
     
     
     it('should contain "Libertate" in page title', async () => {
         await browser.url('https://www.emag.ro/');
-        await expect(browser).toHaveTitleContaining('Libertate');
+        await expect(browser).toHaveTitleContaining('Libertate')
     });
 
 
