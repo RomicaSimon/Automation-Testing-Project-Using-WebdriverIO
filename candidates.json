@@ -1,0 +1,64 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Romica",
+      "location": "Bacau",
+      "phone": "0785649210",
+      "courses completed": [
+        "JavaScript",
+        "Cypress"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Andrei",
+      "location": "Iasi",
+      "phone": "0785875001",
+      "courses completed": [
+        "C++",
+        "Selenium"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ioana",
+      "location": "Bucharest",
+      "phone": "0787231444",
+      "courses completed": [
+        "Phyton",
+        "Selenium"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Virgil",
+      "location": "Galati",
+      "phone": "0785649210",
+      "courses completed": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Andreea",
+      "location": "Braila",
+      "phone": "0785664232",
+      "courses completed": [
+        "C#",
+        "Apium"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Vasile",
+      "location": "Constanta",
+      "phone": "0787332556",
+      "courses completed": [
+        "Phyton",
+        "C#"
+      ]
+    }
+  ]
+}
