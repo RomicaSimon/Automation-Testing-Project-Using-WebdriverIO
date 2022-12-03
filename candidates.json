@@ -5,7 +5,7 @@
       "name": "Romica",
       "location": "Bacau",
       "phone": "0785649210",
-      "courses completed": [
+      "coursesCompleted": [
         "JavaScript",
         "Cypress"
       ]
@@ -15,7 +15,7 @@
       "name": "Andrei",
       "location": "Iasi",
       "phone": "0785875001",
-      "courses completed": [
+      "coursesCompleted": [
         "C++",
         "Selenium"
       ]
@@ -25,7 +25,7 @@
       "name": "Ioana",
       "location": "Bucharest",
       "phone": "0787231444",
-      "courses completed": [
+      "coursesCompleted": [
         "Phyton",
         "Selenium"
       ]
@@ -35,7 +35,7 @@
       "name": "Virgil",
       "location": "Galati",
       "phone": "0785649210",
-      "courses completed": [
+      "coursesCompleted": [
         "Java",
         "Selenium"
       ]
@@ -45,7 +45,7 @@
       "name": "Andreea",
       "location": "Braila",
       "phone": "0785664232",
-      "courses completed": [
+      "coursesCompleted": [
         "C#",
         "Apium"
       ]
@@ -55,10 +55,50 @@
       "name": "Vasile",
       "location": "Constanta",
       "phone": "0787332556",
-      "courses completed": [
+      "coursesCompleted": [
         "Phyton",
         "C#"
       ]
+    },
+    {
+      "name": "George",
+      "location": "Calarasi",
+      "phone": "0785444213",
+      "coursesCompleted": [
+        "Java",
+        "Ruby"
+      ],
+      "id": 8
+    },
+    {
+      "name": "George",
+      "location": "Calarasi",
+      "phone": "0785444213",
+      "coursesCompleted": [
+        "Java",
+        "Ruby"
+      ],
+      "id": 9
+    },
+    {
+      "name": "George",
+      "location": "Calarasi",
+      "phone": "0785444213",
+      "coursesCompleted": [
+        "Java",
+        "Ruby"
+      ],
+      "id": 10
+    },
+    {
+      "name": "George",
+      "location": "Calarasi",
+      "phone": "0785444213",
+      "coursesCompleted": [
+        "Java",
+        "Ruby"
+      ],
+      "id": 11
     }
   ]
 }
