@@ -52,6 +52,11 @@ describe('bigfish.ro', () => {
         await expect(bigfishLogo).toExist();
     });
 
+    it('should have a specific logo', async () => {
+        const bigfishLogo = await $('//*[@id="logo"]/img')
+        await expect(bigfishLogo).toExist();
+    });
+
 
     it('should open Abu-Garcia page', async () => {
         const abuGarciaButton = await $('//*[@id="brands-slide"]/div[1]/div/div[1]/div/ul/li[4]/a/img');
